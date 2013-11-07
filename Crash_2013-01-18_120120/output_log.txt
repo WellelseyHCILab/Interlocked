@@ -1,0 +1,863 @@
+Forcing GfxDevice: 0
+OpenGL:
+    Version:  OpenGL 3.3 [3.3.0]
+    Renderer: Quadro FX 580/PCIe/SSE2
+    Vendor:   NVIDIA Corporation
+    VRAM:     499 MB (via DXGI)
+    Extensions: GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_draw_buffers GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_ES2_compatibility GL_ARB_explicit_attrib_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_provoking_vertex GL_ARB_robustness GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_separate_shader_objects GL_ARB_shader_bit_encoding GL_ARB_shader_objects GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sync GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_compression GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_storage GL_ARB_texture_swizzle GL_ARB_timer_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_format_BGRA8888 GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_texture_type_2_10_10_10_REV GL_EXT_timer_query GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_import_sync_object GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KTX_buffer_region GL_NV_alpha_test GL_NV_blend_minmax GL_NV_blend_square GL_NV_complex_primitives GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_ES1_1_compatibility GL_NV_explicit_multisample GL_NV_fbo_color_attachments GL_NV_fence GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragdepth GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_gpu_program4 GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_shader_buffer_load GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_expand_normal GL_NV_texture_lod_clamp GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NVX_conditional_render GL_NVX_gpu_memory_info GL_OES_compressed_paletted_texture GL_OES_depth24 GL_OES_depth32 GL_OES_depth_texture GL_OES_element_index_uint GL_OES_fbo_render_mipmap GL_OES_get_program_binary GL_OES_mapbuffer GL_OES_packed_depth_stencil GL_OES_point_size_array GL_OES_point_sprite GL_OES_rgb8_rgba8 GL_OES_read_format GL_OES_standard_derivatives GL_OES_texture_3D GL_OES_texture_float GL_OES_texture_float_linear GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_OES_texture_npot GL_OES_vertex_array_object GL_OES_vertex_half_float GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum GL_WIN_swap_hint WGL_EXT_swap_control 
+    WGL extensions: WGL_ARB_buffer_region WGL_ARB_create_context WGL_ARB_create_context_profile WGL_ARB_create_context_robustness WGL_ARB_extensions_string WGL_ARB_make_current_read WGL_ARB_multisample WGL_ARB_pbuffer WGL_ARB_pixel_format WGL_ARB_pixel_format_float WGL_ARB_render_texture WGL_ATI_pixel_format_float WGL_EXT_create_context_es_profile WGL_EXT_create_context_es2_profile WGL_EXT_extensions_string WGL_EXT_framebuffer_sRGB WGL_EXT_pixel_format_packed_float WGL_EXT_swap_control WGL_EXT_swap_control_tear WGL_NVX_DX_interop WGL_NV_DX_interop WGL_NV_DX_interop2 WGL_NV_copy_image WGL_NV_float_buffer WGL_NV_gpu_affinity WGL_NV_multisample_coverage WGL_NV_render_depth_texture WGL_NV_render_texture_rectangle WGL_NV_swap_group WGL_NV_video_capture 
+desktop: 1920x1080 120Hz; virtual: 1920x1080 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Initialize engine version: 3.5.2f2
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.077 seconds
+Platform assembly: C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/Mono/MonoBehaviour.cpp Line: 1592)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 474. Operation took 4.702510 ms.
+System memory in use: 6.3 MB.
+Previous eyePosX: 0.008429279
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Current eyePosX: 0.008429279
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+DiffX: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+AbsDiffX: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Rounded AbsDiffx: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Greater than 0.01: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Previous eyePosX: 0.008429279
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Current eyePosX: 0.02827493
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+DiffX: 0.01984565
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+AbsDiffX: 0.01984565
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Rounded AbsDiffx: 0.02
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Greater than 0.01: True
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Previous eyePosX: 0.02827493
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Current eyePosX: 0.02698801
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+DiffX: -0.001286926
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+AbsDiffX: 0.001286926
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Rounded AbsDiffx: 0.001
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Greater than 0.01: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Previous eyePosX: 0.02698801
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Current eyePosX: 0.02626173
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+DiffX: -0.0007262789
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+AbsDiffX: 0.0007262789
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Rounded AbsDiffx: 0.001
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Greater than 0.01: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Previous eyePosX: 0.02626173
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Current eyePosX: 0.02584757
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+DiffX: -0.0004141536
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+AbsDiffX: 0.0004141536
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Rounded AbsDiffx: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Greater than 0.01: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Previous eyePosX: 0.02584757
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Current eyePosX: 0.02536961
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+DiffX: -0.0004779696
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+AbsDiffX: 0.0004779696
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Rounded AbsDiffx: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Greater than 0.01: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Previous eyePosX: 0.02536961
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Current eyePosX: 0.02436611
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+DiffX: -0.001003498
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+AbsDiffX: 0.001003498
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Rounded AbsDiffx: 0.001
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Greater than 0.01: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Previous eyePosX: 0.02436611
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Current eyePosX: 0.02405305
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+DiffX: -0.0003130566
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+AbsDiffX: 0.0003130566
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Rounded AbsDiffx: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Greater than 0.01: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Previous eyePosX: 0.02405305
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Current eyePosX: 0.02357034
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+DiffX: -0.0004827082
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+AbsDiffX: 0.0004827082
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Rounded AbsDiffx: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Greater than 0.01: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Previous eyePosX: 0.02357034
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Current eyePosX: 0.02317767
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+DiffX: -0.0003926754
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+AbsDiffX: 0.0003926754
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Rounded AbsDiffx: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Greater than 0.01: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Previous eyePosX: 0.02317767
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Current eyePosX: 0.02302853
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+DiffX: -0.0001491364
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+AbsDiffX: 0.0001491364
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Rounded AbsDiffx: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Greater than 0.01: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Previous eyePosX: 0.02302853
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Current eyePosX: 0.02280316
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+DiffX: -0.0002253707
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+AbsDiffX: 0.0002253707
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Rounded AbsDiffx: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Greater than 0.01: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Previous eyePosX: 0.02280316
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Current eyePosX: 0.02263338
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+DiffX: -0.0001697782
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+AbsDiffX: 0.0001697782
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Rounded AbsDiffx: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Greater than 0.01: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Previous eyePosX: 0.02263338
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Current eyePosX: 0.02256577
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+DiffX: -6.760657E-05
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+AbsDiffX: 6.760657E-05
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Rounded AbsDiffx: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Greater than 0.01: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Previous eyePosX: 0.02256577
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Current eyePosX: 0.02242958
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+DiffX: -0.000136191
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+AbsDiffX: 0.000136191
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Rounded AbsDiffx: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Greater than 0.01: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Previous eyePosX: 0.02242958
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Current eyePosX: 0.02233417
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+DiffX: -9.541027E-05
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+AbsDiffX: 9.541027E-05
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Rounded AbsDiffx: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Greater than 0.01: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Previous eyePosX: 0.02233417
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Current eyePosX: 0.0222946
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+DiffX: -3.957562E-05
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+AbsDiffX: 3.957562E-05
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Rounded AbsDiffx: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Greater than 0.01: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PenGrab:Update()
+ 
+(Filename: C:/Users/dtwilleager/Desktop/Projects/Imagine2/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\zspace\Desktop\interlocked\interlocked;C:\Users\zspace\Desktop\interlocked\interlocked;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'zspace'
+OS-Version: 6.1.7601 (Service Pack 1) 0x100-0x1
+C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors.exe:repeat_3411_diff_colors.exe (00400000), size: 9781248 (result: 0), SymType: '-exported-', PDB: 'C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors.exe', fileVersion: 3.5.2.0
+C:\Windows\SysWOW64\ntdll.dll:ntdll.dll (777A0000), size: 1572864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SysWOW64\ntdll.dll', fileVersion: 6.1.7601.17725
+C:\Windows\syswow64\kernel32.dll:kernel32.dll (76290000), size: 1114112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\kernel32.dll', fileVersion: 6.1.7601.18015
+C:\Windows\syswow64\KERNELBASE.dll:KERNELBASE.dll (76610000), size: 290816 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\KERNELBASE.dll', fileVersion: 6.1.7601.18015
+C:\Windows\syswow64\USER32.dll:USER32.dll (76970000), size: 1048576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USER32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\GDI32.dll:GDI32.dll (76430000), size: 589824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\GDI32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\LPK.dll:LPK.dll (77770000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\LPK.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\USP10.dll:USP10.dll (761F0000), size: 643072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USP10.dll', fileVersion: 1.626.7601.18009
+C:\Windows\syswow64\msvcrt.dll:msvcrt.dll (760B0000), size: 704512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\msvcrt.dll', fileVersion: 7.0.7601.17744
+C:\Windows\syswow64\ADVAPI32.dll:ADVAPI32.dll (76E40000), size: 655360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\ADVAPI32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\SysWOW64\sechost.dll:sechost.dll (76660000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SysWOW64\sechost.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\RPCRT4.dll:RPCRT4.dll (767F0000), size: 983040 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\RPCRT4.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\SspiCli.dll:SspiCli.dll (74E80000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SspiCli.dll', fileVersion: 6.1.7601.17856
+C:\Windows\syswow64\CRYPTBASE.dll:CRYPTBASE.dll (74E70000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CRYPTBASE.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\SHELL32.dll:SHELL32.dll (75310000), size: 12886016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SHELL32.dll', fileVersion: 6.1.7601.17859
+C:\Windows\syswow64\SHLWAPI.dll:SHLWAPI.dll (76550000), size: 356352 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SHLWAPI.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\ole32.dll:ole32.dll (76B00000), size: 1425408 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\ole32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\VERSION.dll:VERSION.dll (74DA0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\VERSION.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\OPENGL32.dll:OPENGL32.dll (72670000), size: 819200 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\OPENGL32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\GLU32.dll:GLU32.dll (72640000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\GLU32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DDRAW.dll:DDRAW.dll (72550000), size: 946176 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DDRAW.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DCIMAN32.dll:DCIMAN32.dll (72B60000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DCIMAN32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\SETUPAPI.dll:SETUPAPI.dll (76CA0000), size: 1691648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SETUPAPI.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\CFGMGR32.dll:CFGMGR32.dll (765E0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CFGMGR32.dll', fileVersion: 6.1.7601.17621
+C:\Windows\syswow64\OLEAUT32.dll:OLEAUT32.dll (764C0000), size: 585728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\OLEAUT32.dll', fileVersion: 6.1.7601.17676
+C:\Windows\syswow64\DEVOBJ.dll:DEVOBJ.dll (75100000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\DEVOBJ.dll', fileVersion: 6.1.7601.17621
+C:\Windows\system32\dwmapi.dll:dwmapi.dll (72FC0000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dwmapi.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WINMM.dll:WINMM.dll (728B0000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINMM.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\WS2_32.dll:WS2_32.dll (76C60000), size: 217088 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\WS2_32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\NSI.dll:NSI.dll (76900000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\NSI.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\IMM32.dll:IMM32.dll (76910000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\IMM32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\MSCTF.dll:MSCTF.dll (75120000), size: 835584 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\MSCTF.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DNSAPI.dll:DNSAPI.dll (730F0000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DNSAPI.dll', fileVersion: 6.1.7601.17570
+C:\Windows\system32\IPHLPAPI.DLL:IPHLPAPI.DLL (730C0000), size: 114688 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\IPHLPAPI.DLL', fileVersion: 6.1.7601.17514
+C:\Windows\system32\WINNSI.DLL:WINNSI.DLL (730B0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINNSI.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\HID.DLL:HID.DLL (73210000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\HID.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WSOCK32.dll:WSOCK32.dll (72540000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WSOCK32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\MSACM32.dll:MSACM32.dll (731F0000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MSACM32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (72FE0000), size: 524288 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 6.1.7600.16385
+C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Mono\mono.dll:mono.dll (10000000), size: 2224128 (result: 0), SymType: '-exported-', PDB: 'C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Mono\mono.dll'
+C:\Windows\syswow64\PSAPI.DLL:PSAPI.DLL (761E0000), size: 20480 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\PSAPI.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\MSWSOCK.dll:MSWSOCK.dll (73140000), size: 245760 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MSWSOCK.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (731D0000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dhcpcsvc6.DLL', fileVersion: 6.1.7601.17970
+C:\Windows\system32\dhcpcsvc.DLL:dhcpcsvc.DLL (72440000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dhcpcsvc.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\System32\wshtcpip.dll:wshtcpip.dll (72510000), size: 20480 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\wshtcpip.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\NLAapi.dll:NLAapi.dll (731B0000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\NLAapi.dll', fileVersion: 6.1.7601.17761
+C:\Windows\system32\napinsp.dll:napinsp.dll (731A0000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\napinsp.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\pnrpnsp.dll:pnrpnsp.dll (73180000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\pnrpnsp.dll', fileVersion: 6.1.7600.16385
+C:\Windows\System32\winrnr.dll:winrnr.dll (730E0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\winrnr.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\nvoglv32.DLL:nvoglv32.DLL (68DA0000), size: 20070400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\nvoglv32.DLL', fileVersion: 9.18.13.697
+C:\Windows\syswow64\WINTRUST.dll:WINTRUST.dll (75F60000), size: 184320 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\WINTRUST.dll', fileVersion: 6.1.7601.17940
+C:\Windows\syswow64\CRYPT32.dll:CRYPT32.dll (751F0000), size: 1171456 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CRYPT32.dll', fileVersion: 6.1.7601.17856
+C:\Windows\syswow64\MSASN1.dll:MSASN1.dll (768F0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\MSASN1.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\ntmarta.dll:ntmarta.dll (74D10000), size: 135168 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\ntmarta.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\WLDAP32.dll:WLDAP32.dll (76680000), size: 282624 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\WLDAP32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll:comctl32.dll (72160000), size: 1695744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll', fileVersion: 6.10.7601.17514
+C:\Windows\system32\xinput9_1_0.dll:xinput9_1_0.dll (71F20000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\xinput9_1_0.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\MMDevAPI.DLL:MMDevAPI.DLL (72390000), size: 233472 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MMDevAPI.DLL', fileVersion: 6.1.7601.17514
+C:\Windows\system32\PROPSYS.dll:PROPSYS.dll (70100000), size: 1003520 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\PROPSYS.dll', fileVersion: 7.0.7601.17514
+C:\Windows\system32\wdmaud.drv:wdmaud.drv (72360000), size: 196608 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wdmaud.drv', fileVersion: 6.1.7601.17514
+C:\Windows\system32\ksuser.dll:ksuser.dll (72880000), size: 16384 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\ksuser.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\AVRT.dll:AVRT.dll (71F90000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\AVRT.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\dsound.dll:dsound.dll (6D100000), size: 466944 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dsound.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\POWRPROF.dll:POWRPROF.dll (71F60000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\POWRPROF.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\CLBCatQ.DLL:CLBCatQ.DLL (763A0000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CLBCatQ.DLL', fileVersion: 2001.12.8530.16385
+C:\Windows\system32\mlang.dll:mlang.dll (71F30000), size: 188416 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\mlang.dll', fileVersion: 6.1.7600.16385
+C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Plugins\ZSUnityPlugin.dll:ZSUnityPlugin.dll (67E70000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Plugins\ZSUnityPlugin.dll'
+C:\Windows\WinSxS\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57\MSVCP90.dll:MSVCP90.dll (727F0000), size: 581632 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\WinSxS\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57\MSVCP90.dll', fileVersion: 9.0.30729.6161
+C:\Windows\WinSxS\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57\MSVCR90.dll:MSVCR90.dll (72740000), size: 667648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\WinSxS\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57\MSVCR90.dll', fileVersion: 9.0.30729.6161
+C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Plugins\ZSCommon.dll:ZSCommon.dll (67E20000), size: 307200 (result: 0), SymType: '-exported-', PDB: 'C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Plugins\ZSCommon.dll'
+C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Plugins\ZSStereo.dll:ZSStereo.dll (67E00000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Plugins\ZSStereo.dll'
+C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Plugins\ZSTracker.dll:ZSTracker.dll (67740000), size: 86016 (result: 0), SymType: '-exported-', PDB: 'C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Plugins\ZSTracker.dll'
+C:\Program Files (x86)\zSpace\zSpace Tracking\svn-12537-build-17\ZSTP_IZAtlas_Win32.DLL:ZSTP_IZAtlas_Win32.DLL (67720000), size: 69632 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\zSpace\zSpace Tracking\svn-12537-build-17\ZSTP_IZAtlas_Win32.DLL', fileVersion: 2.7.0.12537
+C:\Program Files (x86)\zSpace\zSpace Tracking\svn-12537-build-17\ZSSystemClient_Win32.dll:ZSSystemClient_Win32.dll (676E0000), size: 237568 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\zSpace\zSpace Tracking\svn-12537-build-17\ZSSystemClient_Win32.dll', fileVersion: 2.7.0.12537
+C:\Windows\system32\wbem\wbemprox.dll:wbemprox.dll (728A0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\wbemprox.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\wbemcomn.dll:wbemcomn.dll (723D0000), size: 376832 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbemcomn.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\CRYPTSP.dll:CRYPTSP.dll (74190000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\CRYPTSP.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (74150000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\rsaenh.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\RpcRtRemote.dll:RpcRtRemote.dll (733D0000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\RpcRtRemote.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (731C0000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\wbemsvc.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (6D040000), size: 614400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\fastprox.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\NTDSAPI.dll:NTDSAPI.dll (73B20000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\NTDSAPI.dll', fileVersion: 6.1.7600.16385
+C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Plugins\ZSSP_LeftRightDetectGl.DLL:ZSSP_LeftRightDetectGl.DLL (67DF0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Users\zspace\Desktop\interlocked\interlocked\repeat_3411_diff_colors_Data\Plugins\ZSSP_LeftRightDetectGl.DLL'
+C:\Windows\system32\dbghelp.dll:dbghelp.dll (71E20000), size: 962560 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dbghelp.dll', fileVersion: 6.1.7601.17514
+
+========== OUTPUTING STACK TRACE ==================
+
+(0x68E8B18A) (nvoglv32): (filename not available): (function-name not available)
+(0x69718892) (nvoglv32): (filename not available): DrvPresentBuffers
+(0x697E9AB8) (nvoglv32): (filename not available): DrvPresentBuffers
+(0x68EF0CA3) (nvoglv32): (filename not available): (function-name not available)
+(0x697E996E) (nvoglv32): (filename not available): DrvPresentBuffers
+(0x68EF0CA3) (nvoglv32): (filename not available): (function-name not available)
+(0x68F2B5C6) (nvoglv32): (filename not available): (function-name not available)
+(0x0069AED0) (repeat_3411_diff_colors): (filename not available): (function-name not available)
+(0x0069AFA1) (repeat_3411_diff_colors): (filename not available): (function-name not available)
+(0x0051E1CB) (repeat_3411_diff_colors): (filename not available): (function-name not available)
+(0x0051E210) (repeat_3411_diff_colors): (filename not available): (function-name not available)
+(0x004D6634) (repeat_3411_diff_colors): (filename not available): (function-name not available)
+(0x00516C68) (repeat_3411_diff_colors): (filename not available): (function-name not available)
+(0x00458282) (repeat_3411_diff_colors): (filename not available): (function-name not available)
+(0x0045E36C) (repeat_3411_diff_colors): (filename not available): (function-name not available)
+(0x00462F59) (repeat_3411_diff_colors): (filename not available): (function-name not available)
+(0x00463FCE) (repeat_3411_diff_colors): (filename not available): (function-name not available)
+(0x0047B1A8) (repeat_3411_diff_colors): (filename not available): (function-name not available)
+(0x0056B805) (repeat_3411_diff_colors): (filename not available): (function-name not available)
+(0x00613EFB) (repeat_3411_diff_colors): (filename not available): (function-name not available)
+(0x00614481) (repeat_3411_diff_colors): (filename not available): (function-name not available)
+(0x006154D2) (repeat_3411_diff_colors): (filename not available): (function-name not available)
+(0x0097FE0F) (repeat_3411_diff_colors): (filename not available): (function-name not available)
+(0x762A33AA) (kernel32): (filename not available): BaseThreadInitThunk
+(0x777D9EF2) (ntdll): (filename not available): RtlInitializeExceptionChain
+(0x777D9EC5) (ntdll): (filename not available): RtlInitializeExceptionChain
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
